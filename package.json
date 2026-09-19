@@ -1,0 +1,31 @@
+{
+  "name": "guia01-arqsoftware-camiloconde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloThisPunk/guia01-arqSoftware-CamiloConde.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CamiloThisPunk/guia01-arqSoftware-CamiloConde/issues"
+  },
+  "homepage": "https://github.com/CamiloThisPunk/guia01-arqSoftware-CamiloConde#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
